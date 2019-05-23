@@ -1,0 +1,9 @@
+.icon-close {
+    font-size: 1.2em;
+    color: #0ef;
+    margin-left: 10px;
+}
+
+.icon-close:hover {
+    color: #0ef;
+}
